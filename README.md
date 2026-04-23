@@ -1,5 +1,5 @@
 
-#hahrhharh
-#BAIR PRIVET ETO YA
+# hahrhharh
+# BAIR PRIVET ETO YA
 
 # ansible-practic
